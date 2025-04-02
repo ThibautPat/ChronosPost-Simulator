@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 487a371725653ca438e73e47ab44d9b5, type: 3}
+  m_Name: NewRoadConfiguration
+  m_EditorClassIdentifier: 
+  roadElementsList:
+  - name: Straigth road
+    prefab: {fileID: 1338037844352103291, guid: b6e91469a7cad2848aaf1a2865bb0b33,
+      type: 3}
+    icon: {fileID: 2800000, guid: 7dab99b765d9d9445ad7251793c00672, type: 3}
+  - name: Right road
+    prefab: {fileID: 1103457735946623655, guid: fa7f40d67ffc36c43bde536a5a506a84,
+      type: 3}
+    icon: {fileID: 2800000, guid: ae5e1f976e05d834fbdd2bab28f200b1, type: 3}
+  - name: Left road
+    prefab: {fileID: 3519888801831830377, guid: 378177ee84a53c7469f2ec68210204ed,
+      type: 3}
+    icon: {fileID: 2800000, guid: 710d45d739855e54881bbe1bb74f4a55, type: 3}
+  - name: Cross road
+    prefab: {fileID: 4018522167326432711, guid: b6d58fffb12121d45a8a47232b1afa07,
+      type: 3}
+    icon: {fileID: 2800000, guid: 0e811e5c8a9156943b1c23fc18595a00, type: 3}
+  - name: Up Straight road
+    prefab: {fileID: 1338037844352103291, guid: 6351d3d5331838f4796321f3ef28c00e,
+      type: 3}
+    icon: {fileID: 2800000, guid: b9cfd07279f2c7a4a89bf903e45659ff, type: 3}
+  - name: Ramp Up
+    prefab: {fileID: 4042329616771147289, guid: ccc368a78533e964682ff971ed3c0c60,
+      type: 3}
+    icon: {fileID: 2800000, guid: ba316dd570115e24da3217d25c2e22c2, type: 3}
+  - name: Ramp Down
+    prefab: {fileID: 4042329616771147289, guid: d9fb9c008f46ad34e87998eb0977cb88,
+      type: 3}
+    icon: {fileID: 2800000, guid: 58488ced3b3bf044fa867f16b88c91c5, type: 3}
+  - name: RoadStraight2
+    prefab: {fileID: 1338037844352103291, guid: 3d78541ea4343b242a22e6de7a0b4911,
+      type: 3}
+    icon: {fileID: 2800000, guid: 36a2072f7ecdb73458f52d9122b8e6c2, type: 3}
+  - name: RoadEnd
+    prefab: {fileID: 8348502083553645125, guid: 53bd4a6becfe8cf499d1165655a0ff67,
+      type: 3}
+    icon: {fileID: 2800000, guid: 227573535884ac54f8fd406e74d50368, type: 3}
+  - name: TraficCircle
+    prefab: {fileID: 4018522167326432711, guid: 85e432eec874b634d8c48b3477156f6b,
+      type: 3}
+    icon: {fileID: 2800000, guid: be3eeab431940a24bb8e218cba2c172b, type: 3}
+  - name: RoadIntersection
+    prefab: {fileID: 1338037844352103291, guid: a96cc485867534949a91d20b0b7a645f,
+      type: 3}
+    icon: {fileID: 2800000, guid: a91d080f0893c3e459d9274f82873356, type: 3}
+  - name: RoadCurveIntersection
+    prefab: {fileID: 1338037844352103291, guid: 2c36e372a22310a4db38d9654e31f09f,
+      type: 3}
+    icon: {fileID: 2800000, guid: c2bfc1a58fe5b9c41a03911e1dda191e, type: 3}
+  - name: RoadSplit
+    prefab: {fileID: 1338037844352103291, guid: 54863e653b886f4469edbfc1c2a38adf,
+      type: 3}
+    icon: {fileID: 2800000, guid: 9ec9e997c5c7c7f4fa129fd8b4c5576f, type: 3}
+  - name: Up RightRoad
+    prefab: {fileID: 1103457735946623655, guid: e42fca79fbb60024ca064e0d7dc3c309,
+      type: 3}
+    icon: {fileID: 2800000, guid: dc10d65633086cd4aa62449d380ca1b9, type: 3}
+  - name: Up LeftRoad
+    prefab: {fileID: 1103457735946623655, guid: 1d000b878aabbca4e9bb1bfb57d9ff4e,
+      type: 3}
+    icon: {fileID: 2800000, guid: f696b1eaa6fb01d4780af014e4681048, type: 3}
+  - name: NIGGER
+    prefab: {fileID: 2315229379609874221, guid: 472b7f6a0f2ac154ab497f2380f7bb6f,
+      type: 3}
+    icon: {fileID: 2800000, guid: 098c7906709c37c4bba842c34581765c, type: 3}

@@ -1,0 +1,18 @@
+// Credits //
+
+GRAPHICALS CREDITS :
+	Font VerminVibesEX : Chequered Ink
+		Link : https://www.dafont.com/fr/vermin-vibes-ex.font
+			Licence : Free for non commercial use.
+
+	Devices Icons : Zacksly & Julio Cacko & Kenney
+		Link : https://zacksly.itch.io/xbox-series-button-icons-and-controls
+			Licence : Free for non commercial use.
+		Link : https://www.artstation.com/marketplace/p/8ydVY/input-prompts-pack-1000-icons-for-pc-and-consoles-for-eunreal-engine-or-unity
+			Licence : Free for any use.
+		Link : https://kenney.nl/assets/input-prompts
+			Licence : Free for any use.
+
+	Editor Icons : Free Icons PNG
+		Link : https://www.freeiconspng.com
+			Licence : Free for non commercial use.
